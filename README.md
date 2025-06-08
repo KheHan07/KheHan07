@@ -7,7 +7,7 @@
 <br><br>
 
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **About Me**
-- :thinking: I am doing a Software Engineering internship at **WSO2** Sri Lanka..
+- :💻: I am doing a Software Engineering internship at **WSO2** Sri Lanka..
 - :school: I am also currently studying **BEng (Hons) Software Engineering** at the [University of Westminster, UK](https://www.westminster.ac.uk/).
 - :trophy: I have participated in several **Hackathons** and love to challenge myself with new programming problems.
 - :muscle: I competed in the **2024 IEEEXtreme 18.0 Programming Competition**, securing **54th in my island** and **766th in the world**.

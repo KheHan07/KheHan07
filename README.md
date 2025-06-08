@@ -7,13 +7,13 @@
 <br><br>
 
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **About Me**
-- :school: I am currently studying **BEng (Hons) Software Engineering** at the [University of Westminster, UK](https://www.westminster.ac.uk/).
+- :thinking: I am doing a Software Engineering internship at **WSO2** Sri Lanka..
+- :school: I am also currently studying **BEng (Hons) Software Engineering** at the [University of Westminster, UK](https://www.westminster.ac.uk/).
 - :trophy: I have participated in several **Hackathons** and love to challenge myself with new programming problems.
 - :muscle: I competed in the **2024 IEEEXtreme 18.0 Programming Competition**, securing **54th in my island** and **766th in the world**.
 - :technologist: I enjoy using **Software** to create solutions for every `Problem`.
 - :computer: I have a good working knowledge of **Java**, **Python**, and **Kotlin**, and I'm continuously learning and expanding my skills with frameworks like **Spring Boot**, **Angular**, **React**, **Node.js**, and **Flutter**.
-- :student: I’m currently in my **second year** of university, and I’m always looking to expand my knowledge in **Computer Science** and **Software Engineering**.
-- :thinking: I’m currently open to exciting **job opportunities** and challenges.
+- :student: I’m currently in my **third year** of university, and I’m always looking to expand my knowledge in **Computer Science** and **Software Engineering**.
 - 📫 How to reach me **lakkithapeiris@gmail.com**
 <br>
 <hr>

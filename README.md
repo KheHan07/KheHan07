@@ -1,6 +1,6 @@
 <h1 align="center">Hi  👋 , I'm Khehan Lakkitha</h1>
 
-<h3 align="center">A passionate Software Engineering student, one line at a time. 🚀 👨‍💻</h3>
+<h3 align="center">A passionate Software Engineering student, one  line at a time. 🚀 👨‍💻</h3>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 

@@ -6,7 +6,7 @@
 
 <br><br>
 
- <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> ** About Me**
+ <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> ** About Me **
 - 💻 I  am doing a Software Engineering internship at [WSO2](https://wso2.com/) Sri Lanka.
 - :school: I am also currently studying **BEng (Hons) Software Engineering** at the [University of Westminster, UK](https://www.westminster.ac.uk/).
 - :trophy: I have participated in several **Hackathons** and love to challenge myself with new programming problems.

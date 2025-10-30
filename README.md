@@ -1,4 +1,4 @@
-<h1 align="center">👋 Khehan Lakkitha</h1>
+<h1 align="center">🫆 Khehan Lakkitha 🫆</h1>
 
 <h3 align="center">A passionate Software Engineering Intern, one  line at a time. 🚀 👨‍💻</h3>
 

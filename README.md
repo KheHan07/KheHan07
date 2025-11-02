@@ -4,17 +4,11 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<br><br>
-
  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
-- Intern at [WSO2](https://wso2.com/) Sri Lanka.
-- :school: **BEng (Hons) Software Engineering** at the [University of Westminster, UK](https://www.westminster.ac.uk/).
-- :trophy: I have participated in several **Hackathons** and love to challenge myself with new programming problems.
-- :technologist: I enjoy using **Software** to create solutions for every `Problem`.
-- :computer: I have solid knowledge of **Java**, **Python**, and **Kotlin**, and I'm expanding my skills with tools and frameworks like **Spring Boot**, **Angular**, **React**, **Node.js**, and **Flutter**.
-- :student: I’m currently in my **third year** of university, and I’m always looking to expand my knowledge in **Computer Science** and **Software Engineering**.
-- 📫 How to reach me **lakkithapeiris@gmail.com**
-<br>
+<h3 align="center">Intern at <a href="https://wso2.com/" target="_blank">WSO2</a> 🇱🇰</h3>
+<h3 align="center">🎓 <a href="https://www.westminster.ac.uk/" target="_blank">University of Westminster, UK</a></h3>
+<h3 align="center">📧 <b>lakkithapeiris@gmail.com</b></h3>
+
 <hr>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">

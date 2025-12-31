@@ -4,7 +4,7 @@
 <p align= "center">
   <img align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <br>
-  💼 Intern at <a href="https://wso2.com/" target="_blank">WSO2</a> 🇱🇰
+  💼 Intern at  <a href="https://wso2.com/" target="_blank">WSO2</a> 🇱🇰
   <br>
   <b>lakkithapeiris@gmail.com</b>
 </p>
